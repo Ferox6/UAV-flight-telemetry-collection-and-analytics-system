@@ -1,2 +1,0 @@
-DATABASE_URL=sqlite:///./data/db.sqlite
-LOG_DIR=uploads/logs
